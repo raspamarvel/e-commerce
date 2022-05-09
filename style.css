@@ -1,0 +1,49 @@
+*{
+    transition: all 1s;
+}
+
+body{
+    padding: 50px;
+    background-color: lightseagreen;
+    
+
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+}
+
+
+img {
+    width: 100px;
+}
+
+#cart{
+    background-color: salmon;
+}
+
+#cart, #items {
+    width: 50vw;
+}
+
+h1{
+    color: #7c32ff;
+}
+
+p{
+    color:green;
+}
+
+
+
+#two {
+    background-color: rebeccapurple;
+}
+
+
+.example {
+    border: 5px dashed purple;
+    margin: 5px;
+}
+
